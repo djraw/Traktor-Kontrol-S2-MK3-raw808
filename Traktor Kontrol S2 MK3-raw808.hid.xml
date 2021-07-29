@@ -2,7 +2,7 @@
 <MixxxControllerPreset mixxxVersion="2.2.0" schemaVersion="1">
   <info>
     <name>Traktor Kontrol S2 MK3 - R.A.W.</name>
-    <author>Michael Schmidt</author>
+    <author>Michael Schmidt, R.A.W.</author>
     <description>HID Mapping for Traktor Kontrol S2 MK3</description>
     <forums>https://www.mixxx.org/forums/viewtopic.php?f=7&amp;t=12999</forums>
     <manual>native_instruments_traktor_kontrol_s2_mk3</manual>
